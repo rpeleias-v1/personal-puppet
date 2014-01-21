@@ -5,4 +5,5 @@ node 'rodrigo-pc' {
 
   include basics
   include hipchat
+  include python-fabric
 }
