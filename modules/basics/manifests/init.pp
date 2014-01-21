@@ -18,4 +18,8 @@ class basics {
   package { 'skype':
     ensure => latest,
   }
+
+  package { 'filezilla':
+    ensure => installed,
+  }
 }
