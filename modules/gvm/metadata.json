@@ -1,0 +1,27 @@
+{
+  "name": "paulosuzart-gvm",
+  "version": "0.0.2",
+  "source": "https://github.com/paulosuzart/gvm",
+  "author": "paulosuzart",
+  "license": "Apache License 2.0",
+  "summary": "Paulo Suzart GVM module",
+  "description": "Installs GVM and any package supported by it",
+  "project_page": "https://github.com/paulosuzart/gvm",
+  "dependencies": [
+    {
+      "name": "maestrodev/wget",
+      "version_requirement": "1.3.1"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Gemfile": "714a0b00bdf59c5402fc03b051a78811",
+    "Modulefile": "5eaf3eae956e0629630b5372b4a7a618",
+    "README.md": "db364c81dc54be8afd467cbf1b60f836",
+    "files/gvm_config": "ea91ca46567bfb0d021dc73fd9f6a0d9",
+    "manifests/init.pp": "e73398ebb73e0df49d8cebe069b3f445",
+    "manifests/package.pp": "45d965aa9193e60e910609d9bd037503"
+  }
+}
