@@ -1,4 +1,4 @@
-node 'rodrigo-pc.a5.local' {
+node 'rodrigo-pc' {
   file { '/tmp/rodrigo':
     content => "Hello, Goku!!\n",
   }
