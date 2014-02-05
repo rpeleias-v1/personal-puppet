@@ -1,0 +1,28 @@
+{
+  "name": "evenup-java",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "Justin Lambert <jlambert@letsevenup.com>",
+  "license": "Apache",
+  "summary": "Manages java.",
+  "description": "Installs java",
+  "project_page": "https://github.com/evenup/evenup-java",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "CHANGELOG": "614e1bbeb1c9b796ca79417a2b4a2d6b",
+    "Gemfile": "f690c7696f4b4faf3db2d1f502bf325c",
+    "LICENSE": "6a34c40bb8fa2134a463a814bae7dbe6",
+    "Modulefile": "814aed2472eb701105a41131cea8f917",
+    "README.md": "4a3d611bee51c10ee561fb6f63e9a5a4",
+    "Rakefile": "5151df4f03dff05562dd69e2c798da03",
+    "files/java.profile": "31c9dffcd3eb83c6ef9692b2ec34c27f",
+    "manifests/init.pp": "f90d9c400bd5164ea7054853ce1a9e9e",
+    "spec/classes/java_init_spec.rb": "e3d34384add551f7abf707f073755232",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0"
+  }
+}

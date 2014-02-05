@@ -1,0 +1,7 @@
+20140205 v0.1.0
+  Merge java::devel with java class
+  Update rake checks
+v0.0.4:
+  Update to jdk 1.7
+v0.0.3:
+  Initial public release
